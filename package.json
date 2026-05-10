@@ -1,0 +1,15 @@
+{
+  "name": "discord-webhook-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server to forward requests to Discord webhooks with rate limit handling",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "fastify": "^5.3.3",
+    "dotenv": "^16.4.7"
+  }
+}
