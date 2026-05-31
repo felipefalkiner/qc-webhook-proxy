@@ -3,8 +3,8 @@
     "apiSecret": "qcSheetPassword",
     "webhookUrl": "https://discord.com/api/webhooks/AAAAAA/BBBBBB"
   },
-  "tj_talents": {
-    "apiSecret": "B1asto1se#oo3",
+  "tj_talents_regionals": {
+    "apiSecret": "tjSecret",
     "webhookUrl": "https://discord.com/api/webhooks/CCCCCC/DDDDDD"
   }
 }
