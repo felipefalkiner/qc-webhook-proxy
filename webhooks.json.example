@@ -1,0 +1,10 @@
+{
+  "qc_sheet_regionals": {
+    "apiSecret": "qcSheetPassword",
+    "webhookUrl": "https://discord.com/api/webhooks/AAAAAA/BBBBBB"
+  },
+  "tj_talents": {
+    "apiSecret": "B1asto1se#oo3",
+    "webhookUrl": "https://discord.com/api/webhooks/CCCCCC/DDDDDD"
+  }
+}
